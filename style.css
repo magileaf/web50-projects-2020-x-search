@@ -1,0 +1,82 @@
+.advanceIcon {
+    width: 70px;
+    height: auto;
+}
+
+.banner {
+    padding-left: 40px;
+    padding-top: 30px;
+
+}
+
+.btn1{
+    margin-right: 10px;
+}
+
+.col-auto{
+    position: absolute;
+}
+
+.imgWord {
+    z-index: 2;
+    position: absolute;
+    right:740px;
+    top:350px;
+    color:blue
+
+}
+
+.logo {
+    text-align:center;
+    margin-top: 220px;
+}
+
+.search{
+    width:600px;
+    margin: 0 auto;
+    border:none;
+}
+
+.btn-container{
+    margin-top:3%;
+    text-align:center;
+}
+
+.search-btn{
+    height: 40px;
+    border:none;
+    color: #646464;
+    background: #f2f2f2;
+}
+
+.search-btn:hover{
+    color:rgb(37, 37, 37);
+    border:1px solid lightgray;
+}
+
+table{
+    position:absolute;
+    margin-left: 30px;
+}
+
+input{
+    width:150px;
+}
+
+td{
+    font-size:small;
+}
+
+.tdright{
+    padding-left: 10px;
+}
+
+.advSent{
+    position:absolute;
+    z-index: 4;
+    left: 250px;
+    top:400px;
+}
+
+
+
